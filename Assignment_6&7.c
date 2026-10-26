@@ -254,7 +254,7 @@ int main()
 {
 char infix[10],postfix[10],prefix[10];
 int op;
-printf("Specify Conversion:\n1. Infix to Postfix\n2. Postfix to Prefix3. Prefix to Postfix\n4. Evaluation\nYour Option: ");
+printf("Specify Conversion:\n1. Infix to Postfix\n2. Postfix to Prefix\n3. Prefix to Postfix\n4. Evaluation\nYour Option: ");
 scanf("%d",&op);
 switch(op){
 	case 1:

@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-int rear=-1,front=-1;
+int rear=0,front=0;
 int sizeQ=6;
 struct Jobseq{
 int JobId;
